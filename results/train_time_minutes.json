@@ -1,0 +1,7 @@
+{
+  "yolov8s": 39.8,
+  "yolo11s": 41.8,
+  "yolov10s": 48.3,
+  "yolov10s_tune_adamw": 49.1,
+  "yolov10s_tune_cos_aug": 51.3
+}
